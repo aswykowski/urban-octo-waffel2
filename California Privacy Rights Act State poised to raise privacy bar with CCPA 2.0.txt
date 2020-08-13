@@ -1,0 +1,26 @@
+California Privacy Rights Act: State poised to raise privacy bar with ‘CCPA 2.0’
+https://portswigger.net/daily-swig/california-privacy-rights-act-state-poised-to-raise-privacy-bar-with-ccpa-2-0
+David Oberly 12 August 2020 at 16:32 UTC
+New law would provide California residents with an expanded set of digital rights
+
+In 2018, California lawmakers passed what is to date the most groundbreaking piece of privacy legislation in the US – the California Consumer Privacy Act of 2018 (CCPA).
+Although the CCPA has only been in effect since the start of 2020, later this year California residents will be given the opportunity to vote on strengthening the state’s game-changing privacy law even further, as the California Privacy Rights Act of 2020 (CPRA) – commonly referred to as “CCPA 2.0” – will be on the November 2020 ballot in the Golden State.
+The CPRA would provide consumers with an expansive set of new rights beyond those contained in the CCPA, while at the same time fundamentally altering businesses’ privacy compliance obligations under California’s current privacy law in a number of ways.
+California Privacy Rights Act
+The following are some of the most significant aspects of the CPRA:
+* New ‘sensitive personal information’ category: The CPRA creates a new category of ‘sensitive personal information’ that includes government-issued identifiers; account credentials; financial information; geolocation; race or ethnic origin; religious beliefs; contents of mail, emails, or text messages; and biometric information, among others. Under the CPRA, entities must comply with stricter obligations regarding the processing of sensitive data and allow consumers to limit the use and disclosure of that data.
+* Expanded consumer rights: The CPRA grants consumers several additional rights not found in the CCPA, including: the right to correct inaccurate personal information; the right to restrict usage of “sensitive” personal information; and the right to opt out of the “sharing” (defined as transferring information for cross-context behavioral advertising) of personal information.
+* Creation of new privacy regulatory agency: The CPRA establishes the California Privacy Protection Agency (CPPA), which is afforded complete administrative power and the authority to implement and enforce the CPRA.
+* Proportionality requirement: The CPRA requires businesses’ data processing activities to be reasonably necessary and proportionate to achieve the purposes for which the personal information was collected or processed, or for another disclosed purpose that is compatible within the context in which the personal information was collected, and not further processed in a manner that is incompatible with those purposes.
+* Data retention limitations: The CPRA prohibits businesses from retaining personal information for longer than is necessary to achieve the purposes disclosed in the entity’s privacy notice.
+* Broadened data breach liability: The CPRA broadens the scope of the CCPA’s private right of action for breaches involving non-redacted, non-encrypted personal information to also include the unauthorized disclosure or access of email addresses and passwords/security questions that would allow third parties to access consumers’ accounts.
+* Profiling: The CPRA adopts the concept of profiling and requires businesses’ responses to consumer access requests to include meaningful information about the logic involved in such decision-making processes, as well as a description of the likely outcome of the process as it relates to the consumer.
+* Service providers: The CPRA broadens service provider obligations, including new requirements mandating explicit contractual terms in service provider agreements and a prohibition on combining personal information obtained as a service provider with personal information obtained from other sources.
+* Annual security obligations: The CPRA requires businesses whose processing of personal information presents a significant risk to consumers to conduct annual cybersecurity audits and submit risk assessments to the CPPA.
+* Extension of B2B and employee data exemptions: The CCPA’s business-to-business and employee data exemptions, which are set to expire on January 1, 2021, would be extended until January 1, 2023.
+November vote
+The CPRA only requires a simple majority vote in November to become law.
+If California voters choose to move forward with implementing CCPA 2.0, the CPRA would incorporate the CCPA and the law’s new substantive obligations would take effect on January 1, 2023.
+Until January 1, 2023, covered businesses would be required to remain compliant with the CCPA and any corresponding regulations.
+With the exception of consumer access requests, the CPRA would apply only to personal information collected on or after January 1, 2022.
+While no immediate action steps have to be taken at this time, companies that fall under the scope of the CCPA are well advised to review the text of the proposed CPRA to gain a better understanding of the modifications that will need to be made to their privacy compliance programs, if the CRPA becomes the new law in California.
